@@ -10,13 +10,13 @@
 }
 
 * h1 {
-    font-weight: lighter;
+    font-weight: normal;
     margin-top: 10%;
-    color: #424242;
 }
 
 * p,
-li {
+li,
+h1 {
     color: #616161;
 }
 
